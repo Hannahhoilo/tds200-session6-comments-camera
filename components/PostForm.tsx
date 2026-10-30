@@ -279,4 +279,3 @@ const styles = StyleSheet.create({
   authorHint: { fontSize: 13, color: "gray" },
 });
 
-/*test */
