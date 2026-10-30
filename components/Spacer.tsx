@@ -6,4 +6,3 @@ type SpacerProps = { height?: number; width?: number };
 export default function Spacer({ height = 16, width }: SpacerProps) {
   return <View style={{ height, width }} />;
 }
-/*test */
