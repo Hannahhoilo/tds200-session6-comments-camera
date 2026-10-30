@@ -134,4 +134,3 @@ const styles = StyleSheet.create({
   cancelText: { fontSize: 15, fontWeight: "600", color: "#333" },
   addText: { fontSize: 15, fontWeight: "600", color: "white" },
 });
-/*test */
