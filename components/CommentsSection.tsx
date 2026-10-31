@@ -18,7 +18,7 @@ type CommentsSectionProps = {
 
 // Shows the list of comments for a post and lets the user add, edit, or
 // delete one. It owns the popup state, so the screen only has to say
-// what to do with the result.
+// what to do with the result..
 export default function CommentsSection({
   comments,
   loading,
