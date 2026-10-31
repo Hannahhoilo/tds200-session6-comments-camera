@@ -79,4 +79,3 @@ const styles = StyleSheet.create({
   imageCount: { fontSize: 12, color: "#555" },
   author: { fontSize: 12, color: "gray", textDecorationLine: "underline" },
 });
-/* hi */

@@ -278,5 +278,3 @@ const styles = StyleSheet.create({
   authorValue: { fontSize: 16, fontWeight: "600" },
   authorHint: { fontSize: 13, color: "gray" },
 });
-
-/*test */
